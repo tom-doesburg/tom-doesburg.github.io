@@ -1,0 +1,110 @@
+body {
+    background:#999;
+    font-family: Avenir;
+}
+
+
+h1 {
+    color: #111;
+    padding: 10px 10px 0px 0px;
+
+}
+
+h2 {
+    color: #111;
+    font-size: 10pt;
+    padding: 5px;
+}
+
+h3 {
+    color: #111;
+    font-size: 14pt;
+    padding: 5px;
+}
+a {
+    color: whitesmoke;
+    font-size: 10pt;
+}
+
+p {
+    background: #555;
+    color: maroon;
+    padding: 10px;
+    font-size: 10pt;
+}
+
+.secondary {
+    color: cyan;
+}
+
+.tertiary {
+    color: gold;
+}
+
+body {
+    margin: 5;
+}
+
+header {
+    margin: 0;
+    background: lightskyblue;
+    color: maroon;
+    padding: 15px 15px 0 15px;
+}
+
+header h1 {
+    margin: 0;
+    display: inline;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0 0 0 15px;
+    display: inline;
+
+
+}
+
+nav ul li {
+    background: black;
+    color: maroon;
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px 15px;
+}
+
+.row {
+
+
+}
+
+.col {
+    float: left;
+    margin: .5%;
+    background: #333;
+    width: 33%;
+    border-radius: 5px;
+    padding: 10px .5%;
+}
+
+footer {
+    clear: both;
+}
+
+.head-options {
+    color: maroon;
+    text-align: center;
+    padding: 20px 10px;
+    font-size: 20px;
+    line-height: 25px;
+    border-radius: 2px;
+    background-color: #999;
+}
+
+.text-box {
+    text-align: center;
+    margin:auto; 
+    padding: 100px;
+    font-size: 50px;
+    color: whitesmoke;
+    }
